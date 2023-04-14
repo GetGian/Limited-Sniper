@@ -1,8 +1,7 @@
 # ugc-sniper
-the best one out there (yet again)
-
-bored to explain how it works on github join my serv instead https://discord.gg/n2xfSuf7p8
-
+1. Download Python (https://www.python.org/downloads/)
+2. put your roblox cookie on cookie.txt
+3. Add your roblox limited id on limiteds.txt
 
 ## functions
 - supports multi ids
@@ -19,5 +18,3 @@ bored to explain how it works on github join my serv instead https://discord.gg/
 - new line for every new cookie
                            
 you don't need multiple ids and cookies one also works
-                           
-next update 70 stars
