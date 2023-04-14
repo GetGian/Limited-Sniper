@@ -2,6 +2,7 @@
 1. Download Python (https://www.python.org/downloads/)
 2. put your roblox cookie on cookie.txt
 3. Add your roblox limited id on limiteds.txt
+4. Run "run.bat"
 
 ## functions
 - supports multi ids
